@@ -11,10 +11,13 @@ This repository contains my academic projects. I've used R, Perl, Python, SQL to
 * Applied two-sample t-test and Wilcoxon Sign test and Outlier testing on CD33 and CCND3 cyclin D3
 * Fit a regression model on gene expression values from two probes for the expression values of the MCM3 gene
 * Performed fisher's exact test for 2 by 2 contingency table
-
+<img src="https://user-images.githubusercontent.com/33647156/32764181-2d969388-c8d2-11e7-8293-69def84b3421.jpg" width="150" height="100" align="right" />
 
 ## Analysis on Iris data set using R
 * Performed clustering analysis like Hierarchical Clustering to see which species are closely related
+
+<img src="https://user-images.githubusercontent.com/33647156/32764187-2de2bc0e-c8d2-11e7-9220-b3c7bf43667d.PNG" width="150" height="100" align="right" />
+
 * Visualized different species using 3-D scatter plot and used different colors to indicate them
 
 <img src="https://user-images.githubusercontent.com/33647156/32763896-801be290-c8d0-11e7-8b3b-8d5285ec465f.png" width="500" height="500" />
@@ -35,11 +38,6 @@ This repository contains my academic projects. I've used R, Perl, Python, SQL to
 * Checked the model assumptions using the residuals plots on the state.x77 data
 
 <img width="445" alt="capture" src="https://user-images.githubusercontent.com/33647156/32764182-2dab3310-c8d2-11e7-9ede-f0612c1d444a.PNG">
-
-<img width="273" alt="hypothesis" src="https://user-images.githubusercontent.com/33647156/32764185-2dceb57e-c8d2-11e7-86eb-070a5a191782.PNG">
-
-
-
 
 ## Prudential Life insurance assessment using R
 * Performed data pre-processing on prudential life insurance data sets
