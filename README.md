@@ -14,6 +14,7 @@ This repository contains my academic projects. I've used R, SQL to build these p
 
 ## Analysis on Iris data set using R
 * Performed clustering analysis like Hierarchical Clustering to see which species are closely related
+<img width="378" alt="hc clus on iris" src="https://user-images.githubusercontent.com/33647156/32810168-cf7bbdf0-c967-11e7-9f97-f3640a892255.PNG">
 
 * Visualized different species using 3-D scatter plot and used different colors to indicate them
 
