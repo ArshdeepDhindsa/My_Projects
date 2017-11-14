@@ -43,7 +43,7 @@ This repository contains my academic projects. I've used R, SQL to build these p
 * Used R for visuialization
 
 ### ER Diagram for Retail Application
-<img width="490" alt="capture" src="https://user-images.githubusercontent.com/33647156/32768226-f223a1e8-c8e4-11e7-8874-6234b0392c79.jpg">
+<img width="550" alt="capture" src="https://user-images.githubusercontent.com/33647156/32768226-f223a1e8-c8e4-11e7-8874-6234b0392c79.jpg">
 
 ### Analysing different types of customers
 <img width="445" alt="capture" src="https://user-images.githubusercontent.com/33647156/32768268-2636cad2-c8e5-11e7-81a1-1383ef0b02f0.png">
