@@ -4,6 +4,8 @@ This repository contains my academic projects. I've used R, Perl, Python, SQL to
 
 # R Projects
 
+<img src="https://user-images.githubusercontent.com/33647156/32764181-2d969388-c8d2-11e7-8293-69def84b3421.jpg" width="400" height="150" align="right" />
+
 ## Analysis on golub dataset in multtest package using R 
 * Performed hypothesis testing on Gd5 gene and t-test for testing population mean
 * Applied two-sample t-test and Wilcoxon Sign test and Outlier testing on CD33 and CCND3 cyclin D3
@@ -31,6 +33,13 @@ This repository contains my academic projects. I've used R, Perl, Python, SQL to
 * Considered the prediction of the life expectancy by the murder rates, high-school graduates and mean frost days
 * Observed total variation in life expectancy across states
 * Checked the model assumptions using the residuals plots on the state.x77 data
+
+<img width="445" alt="capture" src="https://user-images.githubusercontent.com/33647156/32764182-2dab3310-c8d2-11e7-9ede-f0612c1d444a.PNG">
+<img width="378" alt="hc clus on iris" src="https://user-images.githubusercontent.com/33647156/32764184-2dbcdb24-c8d2-11e7-8b90-bde8935018f2.PNG">
+<img width="273" alt="hypothesis" src="https://user-images.githubusercontent.com/33647156/32764185-2dceb57e-c8d2-11e7-86eb-070a5a191782.PNG">
+<img width="336" alt="k-mean clust" src="https://user-images.githubusercontent.com/33647156/32764187-2de2bc0e-c8d2-11e7-9220-b3c7bf43667d.PNG">
+
+
 
 ## Prudential Life insurance assessment using R
 * Performed data pre-processing on prudential life insurance data sets
