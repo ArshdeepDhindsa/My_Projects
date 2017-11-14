@@ -4,7 +4,7 @@ This repository contains my academic projects. I've used R, Perl, Python, SQL to
 
 # R Projects
 
-<img src="https://user-images.githubusercontent.com/33647156/32764181-2d969388-c8d2-11e7-8293-69def84b3421.jpg" width="200" height="150" align="right" />
+<img src="https://user-images.githubusercontent.com/33647156/32764181-2d969388-c8d2-11e7-8293-69def84b3421.jpg" width="150" height="100" align="right" />
 
 ## Analysis on golub dataset in multtest package using R 
 * Performed hypothesis testing on Gd5 gene and t-test for testing population mean
