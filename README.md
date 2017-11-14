@@ -8,6 +8,7 @@ This repository contains my academic projects. I've used R, Perl, Python, SQL to
 
 ## Analysis on golub dataset in multtest package using R 
 * Performed hypothesis testing on Gd5 gene and t-test for testing population mean
+<img src="hypothesis" src="https://user-images.githubusercontent.com/33647156/32764625-932d67ec-c8d4-11e7-8bfe-b1c30cc2a20c.PNG" width="100" height="100" align="right" />
 * Applied two-sample t-test and Wilcoxon Sign test and Outlier testing on CD33 and CCND3 cyclin D3
 * Fit a regression model on gene expression values from two probes for the expression values of the MCM3 gene
 * Performed fisher's exact test for 2 by 2 contingency table
@@ -16,7 +17,7 @@ This repository contains my academic projects. I've used R, Perl, Python, SQL to
 ## Analysis on Iris data set using R
 * Performed clustering analysis like Hierarchical Clustering to see which species are closely related
 
-<img src="https://user-images.githubusercontent.com/33647156/32764187-2de2bc0e-c8d2-11e7-9220-b3c7bf43667d.PNG" width="150" height="100" align="right" />
+<img src="https://user-images.githubusercontent.com/33647156/32763206-53ebad44-c8cc-11e7-8721-6ebdb576ee26.png" width="100" height="100" align="right" />
 
 * Visualized different species using 3-D scatter plot and used different colors to indicate them
 
