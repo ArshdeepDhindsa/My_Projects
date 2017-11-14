@@ -41,13 +41,19 @@ This repository contains my academic projects. I've used R, Perl, Python, SQL to
 * Performed SVM, linear and decision tree regression analysis techniques and predicted the results
 * Found accuracy and correlations
 * Visualized predictions using histograms and pie charts 
+
 ### Data Preprocessing
 1. Fill missing values using Mean, Mice
+
 <img width="400" height="300" alt="capture" src="https://user-images.githubusercontent.com/33647156/32765231-7f1113b4-c8d7-11e7-851f-009fcafe1a3e.jpg">
+
 2. Dimension Reduction
 3. Eleminate Noise
+
 <img width="400" height="300" alt="capture" src="https://user-images.githubusercontent.com/33647156/32765230-7efdc3f4-c8d7-11e7-8ac9-e763b9014e23.jpg">
+
 ### Generated Decision Tree 
+
 * Splitting of training dataset in 80:20 training and testing data sets
 * Build the model on training data set
 * Use Rpart- Recursive partitioning for classification, regression
@@ -55,9 +61,15 @@ This repository contains my academic projects. I've used R, Perl, Python, SQL to
 * Measuring the model performance using Mean Absolute Error
 * Improved the performance:
 * Rweka- Weka is a collection of machine learning algorithms for data mining tasks, containing tools for classification, regression, clustering. Package 'RWeka' contains the interface code Package: install.packages("Rweka") Library used :library(RWeka)
+
 #### When CP=0.01
+
 ![picture4](https://user-images.githubusercontent.com/33647156/32765539-eafc6c94-c8d8-11e7-99a2-b15f3697c71d.png)
+
 #### When CP=0.001
+
 ![picture5](https://user-images.githubusercontent.com/33647156/32765549-f5ed3598-c8d8-11e7-9ac8-799ff160828d.png)
+
 #### Final result prediction
+
 ![picture6](https://user-images.githubusercontent.com/33647156/32765557-ff2d1cc2-c8d8-11e7-8b61-63fcaf87f3ec.png)
