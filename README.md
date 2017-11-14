@@ -1,5 +1,5 @@
 # My_Projects
-This repository contains my academic projects. I've used R, Perl, Python, SQL to build these projects 
+This repository contains my academic projects. I've used R, SQL to build these projects 
 <img src="https://user-images.githubusercontent.com/33647156/32763206-53ebad44-c8cc-11e7-8721-6ebdb576ee26.png" width="100" height="100" align="right" />
 
 # R Projects
@@ -35,6 +35,13 @@ This repository contains my academic projects. I've used R, Perl, Python, SQL to
 * Checked the model assumptions using the residuals plots on the state.x77 data
 
 <img width="445" alt="capture" src="https://user-images.githubusercontent.com/33647156/32764182-2dab3310-c8d2-11e7-9ede-f0612c1d444a.PNG">
+
+## Database Management for Retail Application
+* Designed a relational database schema using TOAD data modeler.
+* Created multiple tables and managed the retail stores’ data in MySQL.
+* Applied database objects like triggers, stored procedures, views, functions on the database.
+* Used R for visuialization
+<img width="445" alt="capture" src="https://user-images.githubusercontent.com/33647156/32768226-f223a1e8-c8e4-11e7-8874-6234b0392c79.jpg">
 
 ## Prudential Life insurance assessment using R
 * Performed data pre-processing on prudential life insurance data sets
