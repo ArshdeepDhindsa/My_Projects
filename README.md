@@ -28,6 +28,8 @@ This repository contains my academic projects. I've used R, SQL to build these p
 
 <img src="https://user-images.githubusercontent.com/33647156/32764010-4938123e-c8d1-11e7-822a-8fc69eacfaf2.PNG" width="400" height="300" />
 
+<img src="https://user-images.githubusercontent.com/33647156/32770447-bb88e3d8-c8ed-11e7-8508-9e80d98ce92a.PNG" width="400" height="300" />
+
 ## Multiple regression analysis State.x77 data using R 
 * Data sets contain information about 50 states of US where 4 factors were found to be related 
 * Considered the prediction of the life expectancy by the murder rates, high-school graduates and mean frost days
