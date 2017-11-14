@@ -1,5 +1,6 @@
 # My_Projects
 This repository contains my academic projects. I've used R, Perl, Python, SQL to build these projects 
+<img src="https://user-images.githubusercontent.com/33647156/32763206-53ebad44-c8cc-11e7-8721-6ebdb576ee26.png" width="200" height="200" align="right" />
 
 # R Projects
 
