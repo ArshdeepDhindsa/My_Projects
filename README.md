@@ -43,10 +43,10 @@ This repository contains my academic projects. I've used R, Perl, Python, SQL to
 * Visualized predictions using histograms and pie charts 
 ### Data Preprocessing
 1. Fill missing values using Mean, Mice
-<img width="400" height="400" alt="capture" src="https://user-images.githubusercontent.com/33647156/32765231-7f1113b4-c8d7-11e7-851f-009fcafe1a3e.jpg">
+<img width="400" height="300" alt="capture" src="https://user-images.githubusercontent.com/33647156/32765231-7f1113b4-c8d7-11e7-851f-009fcafe1a3e.jpg">
 2. Dimension Reduction
 3. Eleminate Noise
-<img width="400" height="400" alt="capture" src="https://user-images.githubusercontent.com/33647156/32765230-7efdc3f4-c8d7-11e7-8ac9-e763b9014e23.jpg">
+<img width="400" height="300" alt="capture" src="https://user-images.githubusercontent.com/33647156/32765230-7efdc3f4-c8d7-11e7-8ac9-e763b9014e23.jpg">
 
 
 
