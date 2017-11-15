@@ -43,7 +43,7 @@ This repository contains my academic projects. I've used R, SQL to build these p
 ## Database Design & Management for Retail Application
 * Designed a relational database schema using TOAD data modeler.
 * Created multiple tables and managed the retail stores’ data in MySQL.
-* Applied database objects like triggers, stored procedures, views, functions on the database.
+* Applied database objects like triggers, stored procedures, views on the database.
 * Used R for visuialization
 
 ### ER Diagram for Retail Application
