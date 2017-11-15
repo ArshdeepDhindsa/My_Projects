@@ -73,9 +73,9 @@ This repository contains my academic projects. I've used R, SQL to build these p
 * Splitting of training dataset in 80:20 training and testing data sets
 * Build the model on training data set
 * Use Rpart- Recursive partitioning for classification, regression
-* Predicting model on to test data
 * Measuring the model performance using Mean Absolute Error
 * Compared the three models taking 2 parameters i.e. minsplit and cp
+* Predicting model on to test data
 * Improved the performance:
 * Rweka- Weka is a collection of machine learning algorithms for data mining tasks, containing tools for classification, regression, clustering. Package 'RWeka' contains the interface code Package: install.packages("Rweka") Library used :library(RWeka)
 
