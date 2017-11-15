@@ -36,7 +36,7 @@ This repository contains my academic projects. I've used R, SQL to build these p
 * Data sets contain information about 50 states of US where 4 factors were found to be related 
 * Considered the prediction of the life expectancy by the murder rates, high-school graduates and mean frost days
 * Observed total variation in life expectancy across states
-* Checked the model assumptions using the residuals plots on the state.x77 data
+* Found that all three variables are statistically significantly related to Life expectancy
 
 <img width="445" alt="capture" src="https://user-images.githubusercontent.com/33647156/32764182-2dab3310-c8d2-11e7-9ede-f0612c1d444a.PNG">
 
