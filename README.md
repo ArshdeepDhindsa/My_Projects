@@ -55,8 +55,8 @@ This repository contains my academic projects. I've used R, SQL to build these p
 ## Prudential Life insurance assessment using R
 * Performed data pre-processing on prudential life insurance data set
 * Performed SVM, linear and decision tree regression analysis techniques and predicted the results
-* Found accuracy and correlations
 * Visualized predictions using histograms 
+* Compared all three methods and found decision tree regression to be efficient
 
 ### Data Preprocessing
 1. Fill missing values using Mean, Mice
