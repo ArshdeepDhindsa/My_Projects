@@ -40,7 +40,7 @@ This repository contains my academic projects. I've used R, SQL to build these p
 
 <img width="445" alt="capture" src="https://user-images.githubusercontent.com/33647156/32764182-2dab3310-c8d2-11e7-9ede-f0612c1d444a.PNG">
 
-## Database Management for Retail Application
+## Database Design & Management for Retail Application
 * Designed a relational database schema using TOAD data modeler.
 * Created multiple tables and managed the retail stores’ data in MySQL.
 * Applied database objects like triggers, stored procedures, views, functions on the database.
