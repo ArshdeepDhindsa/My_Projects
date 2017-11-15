@@ -53,10 +53,10 @@ This repository contains my academic projects. I've used R, SQL to build these p
 <img width="445" alt="capture" src="https://user-images.githubusercontent.com/33647156/32768268-2636cad2-c8e5-11e7-81a1-1383ef0b02f0.png">
 
 ## Prudential Life insurance assessment using R
-* Performed data pre-processing on prudential life insurance data sets
+* Performed data pre-processing on prudential life insurance data set
 * Performed SVM, linear and decision tree regression analysis techniques and predicted the results
 * Found accuracy and correlations
-* Visualized predictions using histograms and pie charts 
+* Visualized predictions using histograms 
 
 ### Data Preprocessing
 1. Fill missing values using Mean, Mice
