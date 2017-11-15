@@ -7,7 +7,7 @@ This repository contains my academic projects. I've used R, SQL to build these p
 <img src="https://user-images.githubusercontent.com/33647156/32764181-2d969388-c8d2-11e7-8293-69def84b3421.jpg" width="200" height="100" align="right" />
 
 ## Analysis on golub dataset in multtest package using R 
-* Performed hypothesis testing on Gd5 gene and t-test for testing population mean
+* Performed hypothesis testing on Gdf5 gene and t-test for testing population mean
 * Applied two-sample t-test and Wilcoxon Sign test and Outlier testing on CD33 and CCND3 cyclin D3
 * Fit a regression model on gene expression values from two probes for the expression values of the MCM3 gene
 * Performed fisher's exact test for 2 by 2 contingency table
