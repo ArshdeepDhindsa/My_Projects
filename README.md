@@ -10,7 +10,8 @@ This repository contains my academic projects. I've used R, SQL to build these p
 * Performed hypothesis testing on Gdf5 gene and t-test for testing population mean
 * Applied two-sample t-test and Wilcoxon Sign test and Outlier testing on CD33 and CCND3 cyclin D3
 * Fit a regression model on gene expression values from two probes for the expression values of the MCM3 gene
-* Performed fisher's exact test for 2 by 2 contingency table
+* Performed fisher's exact test for 2 by 2 contingency table, Considered the CCND3 Cyclin D3 gene to see if the 
+  proportion of gene expression greater than one is related to the disease groups
 
 ## Analysis on Iris data set using R
 * Performed clustering analysis like Hierarchical Clustering to see which species are closely related
