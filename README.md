@@ -25,7 +25,7 @@ This repository contains my academic projects. I've used R, SQL to build these p
 * Used tidyverse packages like dplyr, ggplot2, tidyr for the analysis
 * Used ggplot to find the relation between engine size and fuel efficiency of cars in mpg data frame
 * Found relationship between distance and average delay of flights for each location
-* Performed filters to find all the flights that had an arrival delay of two or more hours
+* Applied filters to find all the flights that had an arrival delay of two or more hours
 * Used functions like arrange, select and mutate to reorder and retrieve specific information like arrival or delay of flights on 1st Jan
 
 <img src="https://user-images.githubusercontent.com/33647156/32764010-4938123e-c8d1-11e7-822a-8fc69eacfaf2.PNG" width="400" height="300" />
